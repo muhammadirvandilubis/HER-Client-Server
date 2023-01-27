@@ -27,6 +27,6 @@ public class Peminjaman {
     private Long peminjamanId;
     private Long anggotaId;
     private Long bukuId;
-    private String tglpinjam;
-    private String tglkembali;
+    private String tglPinjam;
+    private String tglKembali;
 }
